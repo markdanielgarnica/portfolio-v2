@@ -3,6 +3,9 @@
 
 @theme {
   --color-gray: #222222;
+  --color-gold: #f3c623;
+  --color-light-gray: #e1e1e1;
+  --color-light: #d9d9d9;
 }
 
 @layer base {
@@ -10,5 +13,6 @@
     font-family: 'GFS Didot', serif;
     font-weight: 400;
     font-style: normal;
+    @apply text-light-gray;
   }
 }

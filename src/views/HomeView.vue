@@ -1,4 +1,6 @@
+<script setup>
+import IntroSection from '@/components/sections/IntroSection.vue'
+</script>
 <template>
-  <h1 class="text-2xl text-white">Test D</h1>
-  <h1 class="text-2xl text-white">Test D</h1>
+  <IntroSection />
 </template>
