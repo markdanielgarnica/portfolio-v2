@@ -1,9 +1,9 @@
 <template>
   <!-- Intro/Hero Section -->
-  <div class="max-w-6xl mx-auto pt-44 pb-52 flex justify-center">
+  <div class="max-w-6xl mx-auto pt-36 pb-52 flex justify-center border-b">
     <div class="text-center w-[45%]">
       <!-- Logo -->
-      <div class="w-8 mx-auto mb-24">
+      <div class="w-8 mx-auto mb-32">
         <img src="@/assets/logo.png" class="w-full h-auto" />
       </div>
       <div class="space-y-14 mb-28">
