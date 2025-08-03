@@ -23,7 +23,12 @@
           adipiscing elit quisque faucibus.
         </p>
       </div>
-      <button class="bg-light text-gray px-2 cursor-pointer">Download CV</button>
+      <button class="bg-light text-gray px-2 cursor-pointer mb-28">Download CV</button>
+      <div class="flex items-center justify-center gap-10">
+        <div class="bg-light w-14 h-14"></div>
+        <div class="bg-light w-14 h-14"></div>
+        <div class="bg-light w-14 h-14"></div>
+      </div>
     </div>
   </div>
 </template>
